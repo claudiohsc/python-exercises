@@ -1,2 +1,2 @@
-# python-exercises
-- My all exercises in python 3
+# Exercícios de Python
+- Todos os exercícios aprendendo Python 3.
